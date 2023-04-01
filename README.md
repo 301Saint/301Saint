@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @301Saint
-- 👀 I’m interested in Gaming, Graphic Design, Video Editing, Programming, Cannabis, and more.
+- 👀 I’m interested in Gaming, Graphic Design, Video Editing, Programming, and more.
 - 🌱 I’m currently relearning Python, C++, C#, JavaScript, and a few other languages.
 - 📫 How to reach me:
       - DM me here, or Discord @ Saint#0420
