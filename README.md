@@ -1,6 +1,6 @@
 - 👋 Michael "Saint" Griffith
 - 👀 Marketing Specialist | Software Development | Security Analyst
-- 🌱 Degree: Associate of Applied Science [40%]
+- 🌱 Degree: Associate of Applied Science [80%]
 - 🌱 Major: Cloud and Information Tech
 - 📫 How to reach me:
   - https://michaelgriffith.my.canva.site
